@@ -1,0 +1,23 @@
+{
+  "name": "didl",
+  "authors": [
+    "Ilya Rostovtsev <ilyaforpresident@gmail.com>"
+  ],
+  "description": "distributed interacrion description language",
+  "main": "index.html",
+  "license": "BSD-2-Clause",
+  "homepage": "https://ilya.audio/didl",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "codemirror": "^5.19.0",
+    "paper": "^0.10.2",
+    "ramda": "^0.22.1"
+  }
+}

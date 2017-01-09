@@ -1,0 +1,18 @@
+body {
+    margin:0;
+    padding:0;
+}
+#code {
+    margin:0;
+    padding:0;
+    position:absolute;
+    overflow:hidden;
+    display:block;
+}
+
+#didl {
+    margin:0;
+    padding:0;
+    position:absolute;
+    overflow:hidden;
+}
